@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Bonjour, je suis **Lakhdhar Mohamed-Aziz** AKA **Wisemar** !
 
-<!--
-**RzWisemar/RzWisemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **À propos de moi :**
+- Passionné par l'informatique et le développement web.
+- Toujours curieux d'apprendre de nouvelles technologies et d'améliorer mes compétences.
 
-Here are some ideas to get you started:
+💻 **Compétences techniques :**
+- **Langages de base :**
+  - HTML
+  - CSS
+  - PHP
+  
+- **Actuellement en apprentissage :**
+  - JavaScript
+  - Frameworks JavaScript (React, etc.)
+  - **Flutter** pour le développement mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Expériences professionnelles :**
+- Travaillé avec **RealityZoned**, un acteur principal de l'e-sport français ([RealityZoned](https://realityzone.fr)).
+- Créé des applications web et des sites vitrines pour diverses entreprises, notamment :
+  - **OhSport**
+  - **MyCleanVap**
+  - **RealityZoned**
+
+🌱 **Ce que j'apprends en ce moment :**
+- Approfondir mes connaissances en JavaScript et en frameworks comme React.
+- Explorer Flutter pour le développement d'applications mobiles cross-platform.
+
+📫 **Contactez-moi :**
+- [Email](mailto:lakhdhar.mohamedaziz@gmail.com)
